@@ -51,7 +51,7 @@
      -
    * - 4
      - Каневский Иван
-     -
+     - `ikanlol <https://github.com/ikanlol>`_
      -
      -
      -
